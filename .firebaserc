@@ -1,5 +1,14 @@
 {
   "projects": {
-    "default": "fireship-lessons"
+    "default": "github-actions-demo-znorp"
+  },
+  "targets": {
+    "github-actions-demo-znorp": {
+      "hosting": {
+        "app": [
+          "github-actions-demo"
+        ]
+      }
+    }
   }
 }
